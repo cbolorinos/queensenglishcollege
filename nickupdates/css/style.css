@@ -286,6 +286,16 @@ min-height: 330px;
   width: 1020px;
   background: transparent url(../images/container_footer.png) repeat-x top;}
   
+
+.col{
+  width:50%;
+  float:left;
+}
+.col2{
+  width:50%;
+  float:right;
+}
+
 #footer
 { width: 880px;
   padding: 0 20px 0 20px;
