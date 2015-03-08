@@ -1,0 +1,4 @@
+AuthType Basic  
+AuthName "Requires log-in"  
+AuthUserFile /home/queeecom/public_html/nickupdates/staffarea/.htpasswd  
+require valid-user
